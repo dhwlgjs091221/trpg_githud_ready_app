@@ -1,1 +1,2 @@
-# trpg_githud_ready_app
+# TRPG App
+This app is built with Streamlit and Supabase.

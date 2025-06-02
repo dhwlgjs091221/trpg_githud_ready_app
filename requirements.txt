@@ -1,0 +1,6 @@
+streamlit
+supabase
+fastapi
+uvicorn
+websockets
+requests
